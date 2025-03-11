@@ -10,5 +10,5 @@ Simplified architecture lets your apps talk directly to Firestore from your mobi
 For more detailed features and documentation, refer to product documentation.
 
 Demonstrating crud and query operations on a client app using Firestore APIs:
-We are going to experiment Firestore Setup, Queries, Indexes, CRUD operations using Firestore APIs on a Java Spring Boot application deployed on Cloud Run without using a Dockerfile. For this experiment, I have taken the use case of “Yoga posture and breathing  manager” database to accomplish the following: (However the full implementation of the app’s use case is not in scope for this blog)
+We are going to experiment Firestore Setup, Queries, Indexes, CRUD operations using Firestore APIs on a Java Spring Boot application deployed on Cloud Run without using a Dockerfile. For this experiment, I have taken the use case of “Yoga posture and breathing  manager” database.
 
